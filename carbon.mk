@@ -16,5 +16,5 @@ PRODUCT_PROPERTY_OVERRIDES += ro.buildzipid=carbon.m7ul.$(shell date +%m%d%y).$(
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=htc_europe \
-    PRIVATE_BUILD_DESC="3.57.401.500 CL259545 release-keys" \
-    BUILD_FINGERPRINT="htc/htc_europe/m7:4.3/JSS15J/259545.500:user/release-keys"
+    PRIVATE_BUILD_DESC="3.58.1700.5 CL280886 release-keys" \
+    BUILD_FINGERPRINT="htc/m7_google/m7:4.4/KRT16S.H5/280886:user/release-keys"
